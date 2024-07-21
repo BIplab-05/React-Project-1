@@ -10,7 +10,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: url(bgg.jpg) #14213d center;
+	background: url(bgg.jpg) #14213d no-repeat center;
 }
 #root {
 	width: 100%;
